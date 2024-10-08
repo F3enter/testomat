@@ -5,7 +5,8 @@
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Publish your docs](getting-started/publish-your-docs/README.md)
+  * [very new](getting-started/publish-your-docs/very-new.md)
 
 ## Basics
 
