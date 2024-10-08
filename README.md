@@ -1,6 +1,7 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: >-
+  https://images.unsplash.com/photo-1610878785620-3ab2d3a2ae7b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxtaWNyb2NvbnRyb2xsZXJ8ZW58MHx8fHwxNzI4Mzk0NjM3fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
